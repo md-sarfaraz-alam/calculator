@@ -1,0 +1,25 @@
+#clear{
+    width: 127px;
+}
+
+.formstyle{
+    
+    width: 128px;
+    height: 256px;
+    margin: auto;
+    border: 3px solid black;
+    padding: 12px;
+}
+
+input{
+    width: 40px;
+    background-color: aqua;
+   border-color: rgb(231, 14, 14);
+   color: rgb(34, 36, 39);
+    border: 1px solid pink;
+    border-radius: 120px;
+}
+
+#answerme{
+    width: 120px;
+}
